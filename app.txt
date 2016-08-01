@@ -1,0 +1,10 @@
+dropbox
+alfred
+quicksilver
+hammerspoon?
+karabiner
+f.lux
+avira
+chrome
+spotify focus
+sublime
